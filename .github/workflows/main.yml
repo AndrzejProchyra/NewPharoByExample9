@@ -16,3 +16,4 @@ jobs:
     uses: SquareBracketAssociates/BookBuilderDashboard/.github/workflows/main.yml@master
     with:
       bookname: PharoByExample9
+      texlive_release: '2025'
